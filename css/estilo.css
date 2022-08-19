@@ -99,7 +99,7 @@ button:hover{
     border: 1px solid #5e9797;
 }
 
-/*@media screen and (max-width: 412px) {
+@media screen and (max-width: 412px) {
     .add_btn{
         position: absolute;
         right: 80px;
@@ -143,6 +143,6 @@ button:hover{
        
     }
 
-}*/
+}
 
 

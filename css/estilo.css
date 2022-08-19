@@ -118,7 +118,7 @@ button:hover{
 
   
 }
-/*@media screen and (min-width:1024px) {
+@media screen and (min-width:1024px) {
 
     .add_btn{
         position: absolute;
@@ -143,6 +143,6 @@ button:hover{
        
     }
 
-}*/
+}
 
 

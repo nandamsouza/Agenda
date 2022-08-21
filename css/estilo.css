@@ -57,6 +57,7 @@ button:hover{
     list-style: none;
     background-color: white;
     border: solid 2px white;
+    overflow-wrap: break-word;
     border-radius: 5px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.16);
     max-width: 57%;
